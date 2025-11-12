@@ -1,5 +1,7 @@
-def summertall(tall1, tall2):
-    return tall1 + tall2
-summertall(6, 7)
-
-#Kommentar
+# Oppgave 1:
+def tell_tegn (tegn, tekst):
+    teller = 0
+    for i in tekst: 
+        if i == tegn:
+            teller += 1
+    return teller
