@@ -1,3 +1,6 @@
+from telling import *
+#Oppgave 1. Testing
+print(tell_tegn("b", "bananer"))
 
 tallliste = [1, 2, 3, 4, 5]
 def dobbel(liste):
