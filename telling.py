@@ -1,4 +1,4 @@
-# Oppgave 1. testing:
+# Oppgave 1. 
 def tell_tegn (tegn, tekst):
     teller = 0
     for i in tekst: 
@@ -6,6 +6,7 @@ def tell_tegn (tegn, tekst):
             teller += 1
     return teller
 
+#Oppgave 2.
 def erLik(tall1, tall2, tall3):
     if tall1 == tall2 and tall2 == tall3:
         return True

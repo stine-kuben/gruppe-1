@@ -1,7 +1,8 @@
 from telling import *
-#Oppgave 1. Testing
+#Oppgave 1. Test
 print(tell_tegn("b", "bananer"))
 
+#Oppgave 3.
 tallliste = [1, 2, 3, 4, 5]
 def dobbel(liste):
     ny_liste = []
